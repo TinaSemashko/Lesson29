@@ -135,3 +135,5 @@ public class Orders
 	public Employees Employe { get; set; }
 	public Products Product { get; set; }
 }
+//checked
+//it would be better to use Entity (such as Employee) in single, to avoid misunderstanding between single entity and multiple entities
